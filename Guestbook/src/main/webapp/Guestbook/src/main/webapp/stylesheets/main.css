@@ -1,0 +1,11 @@
+body 
+{
+   	background-image: url("images/AdobeStock_2258500978.jpeg");
+}
+
+div.jumbotron
+{
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 15px;
+}
